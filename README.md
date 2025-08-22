@@ -66,6 +66,13 @@ you had 4 more
 
 ---
 
+## installation
+without dependency just by python3
+```bash
+git clone https://github.com/MohammadReza-py/math-game.git
+```
+also you can download and extract source code
+
 ## Quick Start
 Requirements:
 - **Python 3.8+**
